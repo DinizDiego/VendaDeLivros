@@ -1,0 +1,7 @@
+C:\Users\Diniz\source\repos\SistemaDeVendaDeLivros\SistemaDeVendaDeLivros\bin\Debug\SistemaDeVendaDeLivros.exe.config
+C:\Users\Diniz\source\repos\SistemaDeVendaDeLivros\SistemaDeVendaDeLivros\bin\Debug\SistemaDeVendaDeLivros.exe
+C:\Users\Diniz\source\repos\SistemaDeVendaDeLivros\SistemaDeVendaDeLivros\bin\Debug\SistemaDeVendaDeLivros.pdb
+C:\Users\Diniz\source\repos\SistemaDeVendaDeLivros\SistemaDeVendaDeLivros\obj\Debug\SistemaDeVendaDeLivros.csproj.AssemblyReference.cache
+C:\Users\Diniz\source\repos\SistemaDeVendaDeLivros\SistemaDeVendaDeLivros\obj\Debug\SistemaDeVendaDeLivros.csproj.CoreCompileInputs.cache
+C:\Users\Diniz\source\repos\SistemaDeVendaDeLivros\SistemaDeVendaDeLivros\obj\Debug\SistemaDeVendaDeLivros.exe
+C:\Users\Diniz\source\repos\SistemaDeVendaDeLivros\SistemaDeVendaDeLivros\obj\Debug\SistemaDeVendaDeLivros.pdb
