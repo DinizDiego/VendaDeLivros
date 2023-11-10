@@ -108,13 +108,18 @@ namespace SistemaDeVendaDeLivros
                                     Console.WriteLine("O valor total da sua compra é: R$" + Carrinho);
                                     break;
                                 case 8:
-                                    Console.WriteLine("Prossiga para o pagamento.");
+                                    Console.WriteLine("\n***Prossiga para o pagamento***\n"                   +
+                                                      "\nInsira abaixo as informações do cartão de crédito: " +
+                                                      "\nNúmero do cartão: ____-____-____-____ "              +
+                                                      "\nNome no cartão: "                                    +
+                                                      "\nValidade__/__"                                       +
+                                                      "\nCVV:___");
                                     break;
                                 default:
                                     Console.WriteLine("Erro! Escolha uma opção válida.");
                                     break;
                             }//Fim do switch
-                        } while (opcaoL != 0);
+                        } while (opcaoL != 0 && opcaoL != 8);
                         break;                        
                     case 2:
                         this.modelo.ValidacaoLogin();
@@ -153,20 +158,24 @@ namespace SistemaDeVendaDeLivros
                                     Console.WriteLine("O valor total da sua compra é: R$" + Carrinho);
                                     break;
                                 case 8:
-                                    Console.WriteLine("Prossiga para o pagamento.");
+                                    Console.WriteLine("\n***Prossiga para o pagamento***."                    +
+                                                      "\nInsira abaixo as informações do cartão de crédito: " +
+                                                      "\nNúmero do cartão: ____-____-____-____ "              +
+                                                      "\nNome no cartão: "                                    +
+                                                      "\nValidade__/__"                                       +
+                                                      "\nCVV:___");
                                     break;
                                 default:
                                     Console.WriteLine("Erro! Escolha uma opção válida.");
                                     break;
                             }//Fim do switch
-                        } while (opcaoL != 0);
+                        } while (opcaoL != 0 && opcaoL != 8);
                         break;
                     default:
                         Console.WriteLine("Erro! Escolha uma opção válida.");
                         break;                        
                 }//Fim do switch case
             } while (ConsultarOpcao != 0);
-        }
-
-    }
-}
+        }//Fim do DoWhile
+    }//Fim do método
+}//Fim do projeto

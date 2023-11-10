@@ -13,3 +13,10 @@ C:\Users\diego.dfferreira1\source\repos\VendaDeLivros\SistemaDeVendaDeLivros\obj
 C:\Users\diego.dfferreira1\source\repos\VendaDeLivros\SistemaDeVendaDeLivros\obj\Debug\SistemaDeVendaDeLivros.csproj.CoreCompileInputs.cache
 C:\Users\diego.dfferreira1\source\repos\VendaDeLivros\SistemaDeVendaDeLivros\obj\Debug\SistemaDeVendaDeLivros.exe
 C:\Users\diego.dfferreira1\source\repos\VendaDeLivros\SistemaDeVendaDeLivros\obj\Debug\SistemaDeVendaDeLivros.pdb
+C:\Users\Diniz\source\repos\SistemaDeVendaDeLivros\VendaDeLivros\SistemaDeVendaDeLivros\bin\Debug\SistemaDeVendaDeLivros.exe.config
+C:\Users\Diniz\source\repos\SistemaDeVendaDeLivros\VendaDeLivros\SistemaDeVendaDeLivros\bin\Debug\SistemaDeVendaDeLivros.exe
+C:\Users\Diniz\source\repos\SistemaDeVendaDeLivros\VendaDeLivros\SistemaDeVendaDeLivros\bin\Debug\SistemaDeVendaDeLivros.pdb
+C:\Users\Diniz\source\repos\SistemaDeVendaDeLivros\VendaDeLivros\SistemaDeVendaDeLivros\obj\Debug\SistemaDeVendaDeLivros.csproj.AssemblyReference.cache
+C:\Users\Diniz\source\repos\SistemaDeVendaDeLivros\VendaDeLivros\SistemaDeVendaDeLivros\obj\Debug\SistemaDeVendaDeLivros.csproj.CoreCompileInputs.cache
+C:\Users\Diniz\source\repos\SistemaDeVendaDeLivros\VendaDeLivros\SistemaDeVendaDeLivros\obj\Debug\SistemaDeVendaDeLivros.exe
+C:\Users\Diniz\source\repos\SistemaDeVendaDeLivros\VendaDeLivros\SistemaDeVendaDeLivros\obj\Debug\SistemaDeVendaDeLivros.pdb

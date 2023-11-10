@@ -61,7 +61,7 @@ namespace SistemaDeVendaDeLivros
                 Console.WriteLine("Digite seu login: ");
                 login = Console.ReadLine();
 
-                Console.WriteLine("Digite sua senha: "); 
+                Console.WriteLine("\nDigite sua senha: "); 
                 senha = Console.ReadLine();
                 if (login != Cadastro[4] || senha != Cadastro[5])
                 {
