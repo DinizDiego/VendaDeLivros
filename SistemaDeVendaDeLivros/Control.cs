@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Linq;
 using System.Runtime.Remoting.Messaging;
 using System.Text;
@@ -13,7 +14,6 @@ namespace SistemaDeVendaDeLivros
         private int opcao;
         private int opcaoL;
         public int Carrinho;
-        public int i;
 
         public Control()
         {
@@ -34,6 +34,7 @@ namespace SistemaDeVendaDeLivros
             set { this.opcaoL = value; }
         }//Fim get set
 
+        //Menu de boas vindas
         public void Menu()
         {
             Console.WriteLine("\n***Bem Vindo à nossa loja de livros!*** \n\n" +
@@ -44,6 +45,7 @@ namespace SistemaDeVendaDeLivros
             opcao = Convert.ToInt32( Console.ReadLine() );
         }//Fim do Menu
 
+        //Menu de livros + opções
         public void MenuLivro()
         {
             Console.WriteLine("\n***Bem Vindo à sessão de livros!*** \n\n"   +
@@ -61,6 +63,7 @@ namespace SistemaDeVendaDeLivros
             opcaoL = Convert.ToInt32(Console.ReadLine());
         }//Fim do Menu
 
+        //Selecionar opção
         public void Operacao()
         {
             do
